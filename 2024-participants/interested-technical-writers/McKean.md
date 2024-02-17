@@ -1,0 +1,1 @@
+| Erin McKean | [Portfolio](https://erinmckean.com/writing) | Skilled in API documentation, writing tutorials, performing docs audits |
